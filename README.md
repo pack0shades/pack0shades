@@ -19,7 +19,7 @@ kumarpragay@gmail.com
 Tech enthusiast, problem-solver, Otaku, Cats<3
 
 ## 🌐 Socials:
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pragay-kumar-56b97116b/)) | [Discord](pack_o_shades) | [Instagram]([https://www.instagram.com/your-instagram](https://www.instagram.com/pack_o_shades/profilecard/?igsh=dnhkNTY3OG9ienln))
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pragay-kumar-56b97116b/)) | [Discord](pack_o_shades) | [Instagram]((https://www.instagram.com/pack_o_shades/profilecard/?igsh=dnhkNTY3OG9ienln))
 
 ## 💻 My favorite tools and technologies:
 C | LaTeX | Markdown | Python | OpenCV | Canva | Keras | Matplotlib | NumPy | Pandas | PyTorch | scikit-learn | Scipy | TensorFlow | Git | GitHub | OpenCV 
@@ -29,6 +29,6 @@ C | LaTeX | Markdown | Python | OpenCV | Canva | Keras | Matplotlib | NumPy | Pa
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pack0shades&theme=radical)
 
 ## 🌠 Top Repositories:
-[GesturePilot]((https://github.com/pack0shades/GesturePilot)) | [Repo 2](https://github.com/AISocietyIITJ/PlaWorDet-WARP24) 
+[GesturePilot](https://github.com/pack0shades/GesturePilot) | [PlaWorDet](https://github.com/AISocietyIITJ/PlaWorDet-WARP24) 
 
 

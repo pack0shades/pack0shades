@@ -19,7 +19,7 @@ kumarpragay@gmail.com
 Tech enthusiast, problem-solver, Otaku, Cats<3
 
 ## 🌐 Socials:
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pragay-kumar-56b97116b/)) | [Discord](pack_o_shades) | [Instagram]((https://www.instagram.com/pack_o_shades/profilecard/?igsh=dnhkNTY3OG9ienln))
+[LinkedIn](https://www.linkedin.com/in/pragay-kumar-56b97116b/) | [Discord](pack_o_shades) | [Instagram](https://www.instagram.com/pack_o_shades/profilecard/?igsh=dnhkNTY3OG9ienln)
 
 ## 💻 My favorite tools and technologies:
 C | LaTeX | Markdown | Python | OpenCV | Canva | Keras | Matplotlib | NumPy | Pandas | PyTorch | scikit-learn | Scipy | TensorFlow | Git | GitHub | OpenCV 
